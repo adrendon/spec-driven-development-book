@@ -297,8 +297,6 @@ The build engine in `kit/` is a separate repository under its own
 [felipefontoura.com](https://felipefontoura.com) ·
 [@felipefontoura](https://github.com/felipefontoura)
 
-Channel: [YouTube — DEV Vai lá](https://youtube.com/@devvaila)
-
 ## Acknowledgments
 
 - [book-kit](https://github.com/felipefontoura/book-kit) — the

@@ -301,9 +301,9 @@ This ebook is open source. To contribute:
 
 ## Contact
 
-- **Author:** Felipe (DEV Vai lá)
-- **Channel:** [YouTube - DEV Vai lá](https://youtube.com/@devvaila)
-- **Community:** N8N Brasil
+- **Author:** Felipe Fontoura
+- **Web:** [felipefontoura.com](https://felipefontoura.com)
+- **GitHub:** [@felipefontoura](https://github.com/felipefontoura)
 
 ---
 
