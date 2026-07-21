@@ -295,6 +295,7 @@ The build engine in `kit/` is a separate repository under its own
 
 **Felipe Fontoura** — [felipefontoura.com](https://felipefontoura.com) ·
 [felipefontoura.com](https://felipefontoura.com) ·
+[YouTube @f.fontoura](https://www.youtube.com/@f.fontoura) ·
 [@felipefontoura](https://github.com/felipefontoura)
 
 ## Acknowledgments

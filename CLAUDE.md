@@ -303,6 +303,7 @@ This ebook is open source. To contribute:
 
 - **Author:** Felipe Fontoura
 - **Web:** [felipefontoura.com](https://felipefontoura.com)
+- **YouTube:** [@f.fontoura](https://www.youtube.com/@f.fontoura)
 - **GitHub:** [@felipefontoura](https://github.com/felipefontoura)
 
 ---
