@@ -85,11 +85,11 @@ graph TD
     A --> C
 ```
 
-**Visual conventions (kit-driven, Kit hand-drawn style):**
+**Visual conventions (kit-driven, hand-drawn style):**
 
 - Do **not** use emojis in node labels, and do **not** write inline `style`/`fill`
   declarations. The kit (`kit/scripts/mermaid.config.json` + `mermaid.classes.mmd`)
-  renders every diagram in a hand-drawn look with the Kit amber palette, and
+  renders every diagram in a hand-drawn look with the amber palette, and
   injects four semantic node classes automatically.
 - Color nodes only with the injected classes, via `class N1,N2 accent;`:
   - `accent` — the point of the diagram (amber fill, strong border)
@@ -303,6 +303,7 @@ This ebook is open source. To contribute:
 
 - **Author:** Felipe Fontoura
 - **Web:** [felipefontoura.com](https://felipefontoura.com)
+- **Contact:** [felipefontoura.com/contact](https://felipefontoura.com/contact/) (the only contact channel — never add an email address; tag links with `utm_source`/`utm_medium`/`utm_campaign`)
 - **YouTube:** [@f.fontoura](https://www.youtube.com/@f.fontoura)
 - **GitHub:** [@felipefontoura](https://github.com/felipefontoura)
 

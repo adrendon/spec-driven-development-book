@@ -294,7 +294,7 @@ The build engine in `kit/` is a separate repository under its own
 ## Contact
 
 **Felipe Fontoura** — [felipefontoura.com](https://felipefontoura.com) ·
-[felipefontoura.com](https://felipefontoura.com) ·
+[Contact](https://felipefontoura.com/contact/?utm_source=github&utm_medium=readme&utm_campaign=sdd-book) ·
 [YouTube @f.fontoura](https://www.youtube.com/@f.fontoura) ·
 [@felipefontoura](https://github.com/felipefontoura)
 
