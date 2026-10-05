@@ -68,8 +68,9 @@
         "label": "DEL MÉTODO AL CÓDIGO EN PRODUCCIÓN"
       },
       "copyright": [
-        "Copyright © 2026 Felipe Fontoura. Todos los derechos reservados.",
-        "Ninguna parte de este libro puede reproducirse o transmitirse por ningún medio, electrónico o mecánico, sin permiso previo por escrito del autor, excepto breves citas en reseñas.",
+        "Copyright © 2026 Felipe Fontoura.",
+        "El texto de este libro se publica bajo la licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0). Puedes compartir y adaptar el texto, con atribución, para fines no comerciales y bajo la misma licencia. La venta de este libro, o de copias y obras derivadas, está reservada al autor. La portada, el título y la identidad visual no están cubiertos por esta licencia. Texto completo y código fuente:",
+        "github.com/felipefontoura/spec-driven-development-book",
         "Primera edición: 2026. Publicación independiente.",
         "Los ejemplos de código, especificaciones y el nombre del producto TaskFlow Pro son ficticios y se proporcionan con fines educativos.",
         "Las marcas mencionadas (Claude, Claude Code, Cursor, GitHub Copilot, Next.js, Fastify, Prisma y otras) pertenecen a sus respectivos propietarios.",
